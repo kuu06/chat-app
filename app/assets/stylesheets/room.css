@@ -1,0 +1,4 @@
+/* 最後の行に以下を追加 */
+.field_with_errors {
+  display: contents;
+}
